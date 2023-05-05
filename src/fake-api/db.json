@@ -1,0 +1,24 @@
+{
+  "todo": [
+    {
+      "activity": "Nyayi",
+      "isFinished": false,
+      "id": 1
+    },
+    {
+      "activity": "berenang",
+      "isFinished": false,
+      "id": 2
+    },
+    {
+      "activity": "coding",
+      "isFinished": false,
+      "id": 3
+    },
+    {
+      "activity": "beli kambing",
+      "isFinished": false,
+      "id": 4
+    }
+  ]
+}
